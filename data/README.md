@@ -2,7 +2,7 @@
 
 The repository does not redistribute the datasets used for the recorded runs.
 
-The translation code was developed with the Vietnamese-English parallel data distributed through the course dataset repository (`data.30.vi` and `data.30.en`).
+The translation code was developed with Vietnamese-English parallel text files named `data.30.vi` and `data.30.en`.
 
 Aspect sentiment classification used the public MAMS-ATSA review dataset. The original data are available from the MAMS-for-ABSA repository.
 
